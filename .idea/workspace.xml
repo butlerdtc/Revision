@@ -28,6 +28,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1BiggestNumber.executor": "Run",
+    "Python.ConcreteVolume.executor": "Run",
+    "Python.NumberSumInRange.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
