@@ -67,4 +67,3 @@ for student_name in names:
     else:
         print(f"{student_name[0]} scored an E with a mark of "
               f"{student_name[1]}")
-        
