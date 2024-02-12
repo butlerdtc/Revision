@@ -15,4 +15,5 @@ while True:
     width = float(input("What is the width of the building(m): "))
     volume = btype * length * width
     print(f"The volume of a slab of concrete with a length of {length} and a "
-          f"width of {width} with a depth of {btype} is {volume} cubic metres")
+          f"width of {width} with a depth of {btype} is {volume:.2f} cubic "
+          f"metres")
